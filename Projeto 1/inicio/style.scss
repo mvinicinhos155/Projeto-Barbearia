@@ -1,0 +1,77 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+#container {
+    text-align: center;
+    padding: 1rem;
+    background-image: url(assest/gg2.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  #container #imagem {
+    padding: 2rem; 
+  }
+
+  #container #hr-p {
+    text-align: right;
+  }
+
+  #container #HR {
+    
+    text-align: center;
+    font-size: 20px;
+    height: 40px;
+    width: 200px;
+    background-color: transparent;
+    color: white;
+    border-color: white;
+  }
+
+  #container #icon {
+    text-align: left;
+  }
+  #fc {
+    padding: 10px;
+  }
+  #tw {
+    padding: 10px;
+  }
+
+  #in {
+    padding: 10px;
+  }
+
+  #container #sobre {
+    font-size: 25px;
+    margin-top: 1rem;
+    text-align: left;
+    padding-left: 20rem;
+    margin-top: 3rem;
+    margin-top: 12rem;
+  }
+
+  #container #imagem-cabelo{
+    text-align: right;
+    position: relative;
+    top: -25rem;
+
+  }
+
+  #container #text {
+    text-align: left;
+    padding-left: 17rem;
+    margin-top: 3rem;
+    font-size: 20px;
+    color: white;
+   
+  }
+
+  #container #text2 {
+    margin-left: 4rem;
+    padding: 20px;
+    font-size: 35px;
+  }
